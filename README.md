@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/devxb/gitanimals">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Imggaggu&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Imggaggu"
-  width="500" 
+  width="600"
 />
 </a>
 
