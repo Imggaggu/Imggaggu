@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img
     src="https://render.gitanimals.org/lines/Imggaggu"
     width="400"
-    height="100"
+    height="150"
   />
 </a> 
 
