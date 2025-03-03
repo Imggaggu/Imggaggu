@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Imggaggu}"/>
+<img
+  src="https://render.gitanimals.org/farms/Imggaggu"
+  width="500" 
+  height="200"
+/>
 </a>
 
 ## ✨ Tech Stack ✨ 
