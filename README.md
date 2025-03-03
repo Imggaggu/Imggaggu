@@ -15,14 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Imggaggu&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Imggaggu"
   width="600"
 />
 </a>
+-->
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Imggaggu&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Imggaggu"
+    width="400"
+    height="100"
+  />
+</a> 
 
 ## ✨ Tech Stack ✨ 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +42,7 @@ Here are some ideas to get you started:
 ## 🌱 Studying 🌱 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 <!--
 ## 🛠 Tools 🛠
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
