@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Imggaggu&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Imggaggu"
   width="600"
 />
 </a>
--->
 
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Imggaggu&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Imggaggu"
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     height="150"
   />
 </a> 
-
+--!>
 <!--
 ## ✨ Tech Stack ✨ 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
