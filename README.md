@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 <img
   src="https://render.gitanimals.org/farms/Imggaggu"
   width="600"
+  height="300"
+/>
+</a>
+<img
+  src="https://render.gitanimals.org/farms/Imggaggu"
+  width="600"
 />
 </a>
 
