@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 -->
+[![Imggaggu's Aquarium](https://githubaquarium.store/render/aquarium/Imggaggu?width=700&height=400)](https://githubaquarium.store/u/Imggaggu)
